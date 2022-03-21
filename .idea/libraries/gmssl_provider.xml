@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gmssl_provider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gmssl_provider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.49.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-5.1.49-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
